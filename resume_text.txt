@@ -1,0 +1,51 @@
+Pratham Kumar
+♂¶ap-¶arker-altBhubaneswar, Odisha |♂phone-alt+91-7258953359 |/envel⌢pepratham13012004@gmail.com
+/linkedinlinkedin.com/pratham-kumar |/githubgithub.com/Pratham13012004
+Objective
+Aspiring Software Developer and Designer with hands-on experience in web development, machine learning, and UI/UX design .
+Skilled in building responsive applications, integrating AI models, and delivering creative design solutions. Seeking to leverage
+technical expertise and problem-solving abilities in a dynamic organization.
+Skills
+Programming: Python,HTML5, CSS3
+Frameworks: React.js, Flask, TensorFlow, Tailwind CSS, Bootstrap
+Tools: Jupyter Notebook, VS Code, Google Colab, GitHub, Excel
+Design: Photoshop, Illustrator, Blender (3D Modeling & Animation)
+Core Skills: Responsive Web Design, UI/UX Prototyping, Machine Learning, Graphic Design, Client Communication
+Languages: English, Hindi, Bengali, Japanese (N5)
+Education
+Kalinga Institute of Industrial Technology (KIIT University) , Bhubaneswar Sept 2022 – Present
+B.Tech in Computer Science and Engineering
+Montfort Inter College , Lucknow 2022
+CBSE Class XII – Grade: 76%
+Montfort School , Lucknow 2020
+CBSE Class X – Grade: 89%
+Experience
+Frontend Developer Intern — Tata Motors May 2024 – Jun 2024, Lucknow
+•Built responsive web apps using HTML, CSS, and JavaScript with mobile-first design.
+•Improved site usability by 20% via performance optimization and cross-browser testing.
+•Collaborated in Agile sprints and peer code reviews.
+Full Stack developer & Graphic Designer Intern — SYNTALIX Mar 2025 – Jul 2025, Remote
+•Developed React.js interfaces styled with Tailwind CSS for consistent UI.
+•Designed engaging graphics and UI assets for internal projects.
+•Participated in iterative design sessions and peer reviews.
+Graphic Designer Intern — Cannibals Media Feb 2025 – Jul 2025, Remote
+•Designed posters, logos, and social media graphics for 130+ clients globally.
+•Improved delivery efficiency by 25% via collaboration with design teams.
+•Enhanced client communication skills through active feedback sessions.
+Projects
+Calories Burn Predictor — Python, TensorFlow, Flask
+•Built a real-time web app to estimate calories burned using user-specific inputs.
+•Trained and evaluated ML models (Regression, Random Forest, XGBoost, Neural Networks).
+•Deployed best-performing model via Flask UI and Ngrok for public access.
+Tata Motors Webpage Clone — HTML, CSS, JavaScript
+•Developed a responsive clone of Tata Motors’ official website.
+•Ensured mobile responsiveness and cross-browser compatibility.
+Certifications
+AICTE Internship Completion (AICTE) — React Bootcamp (Let’sUpgrade)
+Frontend Developer Internship Certificate (Tata Motors) — Event Organization Certificate (KIIT University)
+Positions of Responsibility
+Event Organizer, KIIT Fest (2023 & 2024) – Led logistics, branding, and design for flagship university events.
+Managed exclusive merchandise branding and packaging for college societies.
+Achievements
+Awarded First Prize in North Zone Art Competition – Presented by Dr. A.P.J. Abdul Kalam.
+Multiple recognitions for excellence in art, design, and creative projects.
